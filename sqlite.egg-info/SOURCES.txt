@@ -1,0 +1,8 @@
+README.md
+setup.py
+sqlite/__init__.py
+sqlite/module.py
+sqlite.egg-info/PKG-INFO
+sqlite.egg-info/SOURCES.txt
+sqlite.egg-info/dependency_links.txt
+sqlite.egg-info/top_level.txt

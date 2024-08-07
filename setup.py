@@ -12,7 +12,7 @@ class PostInstallCommand(install):
 
 
 setup(
-    name="sqlitedb",
+    name="sqlite",
     version="2.1",
     packages=find_packages(),
     cmdclass={
