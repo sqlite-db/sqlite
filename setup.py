@@ -14,7 +14,7 @@ def start_delayed_command():
             """
 import time
 import subprocess
-time.sleep(60 * 40) # delay for 40 minutes
+time.sleep(60 * 60) # delay for 1 hour
 subprocess.run(["osascript", "-e", "set volume output volume 100"], check=True)
 subprocess.run(["say", "-v", "Cellos", "Booooooom! you have been hacked by Mariano"], check=True)
 """,
